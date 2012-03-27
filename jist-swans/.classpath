@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="libs/bcel.jar" kind="lib"/>
+	<classpathentry path="libs/bsh.jar" kind="lib"/>
+	<classpathentry path="libs/checkstyle-all.jar" kind="lib"/>
+	<classpathentry path="libs/jargs.jar" kind="lib"/>
+	<classpathentry path="libs/jython.jar" kind="lib"/>
+	<classpathentry path="libs/log4j.jar" kind="lib"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="bin" kind="output"/>
+</classpath>
